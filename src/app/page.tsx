@@ -1,8 +1,9 @@
+import { HomeCtaButton } from "./components/home-cta-button";
+
 export default function Home() {
   return (
     <div>
-      <h1>Hello World</h1>
-
+      <HomeCtaButton />
     </div>
   );
 }
